@@ -1,0 +1,8 @@
+jtype: neura
+py_modules:
+  - executor.py
+metas:
+  name: neura
+  description: 
+  url: 
+  keywords: []
